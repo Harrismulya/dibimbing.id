@@ -12,6 +12,6 @@ Y: Target variabel (0,1,2)
 1. Studying the relationship between iris flower features and target classes (Setosa, Versicolor, Virginica) so that flowers can be classified based on new features that have never been seen before.
 2. Visualize the decision boundary which shows how the model separates the feature space for various classes.
 
-   **Conclusions**
+**Conclusions**
 
    The K-Nearest Neighbors (KNN) algorithm successfully classifies the types of iris flowers based on their features with high accuracy. The model can represent good results and is an effective choice.
