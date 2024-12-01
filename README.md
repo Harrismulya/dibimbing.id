@@ -17,3 +17,6 @@ Y: Target variabel (0,1,2)
    The K-Nearest Neighbors (KNN) algorithm successfully classifies the types of iris flowers based on their features with high accuracy. The model can represent good results and is an effective choice.
 
 If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on LinkedIn and Email : harrismulya61@gmail.com and https://www.linkedin.com/in/harris-mulya
+
+#Data Science
+
